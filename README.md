@@ -15,3 +15,6 @@ further improvements through improved model parameters and improved DetCon pretr
 remote sensing tasks. This study opens the door for improvements in remote sensing and natural
 resource management by highlighting the potential of using deep learning techniques into OBIA for
 more reliable land cover classification.
+
+- [PDF Report](RS_Final%20Report.pdf)
+- [PowerPoint Presentation](DL-OBIA%20_%20Merging%20Deep%20Learning%20with%20Object-based%20Image%20Analysis.pptx)
